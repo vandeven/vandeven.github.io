@@ -25,6 +25,6 @@ His many years of teaching experience helps in explaining concepts in an easy to
 <p>
 Lastly he likes to be a bit of an advocate for Functional programming/software fundamentals.
 These topics are often misunderstood as being complex (mostly because most literature about it is aimed for people with an academic background).
-If you or your team are interested in these topics and would like these concepts explained in a clear, easy to understand matter, feel free to contact me on LinkedIn or Twitter (links below).
+If you or your team are interested in these topics and would like these concepts explained in a clear, easy to understand matter, feel free to send a message on LinkedIn or Twitter (links below).
 He would love to help you out! (doesn't even have to cost money, knowledge on how to be better at our craft should be accessible for everyone).
 </p>
