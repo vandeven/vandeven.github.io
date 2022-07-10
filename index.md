@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
 <p>
@@ -18,7 +15,7 @@ Trough learning functional programming Ties developed a passion for Software Fun
 <p>
 <img src="assets/img/speaking.jpg" style="width:200px;height:200px;float:right;margin-left:5px">
 Aside from learning software fundamentals Ties also likes to make impact by sharing this knowledge.
-He does this by giving talks within companies or conferences, gives training about functional programming, and by coaching junior developers.
+He does this by giving talks within companies or <a href="/talks" title="conferences" alt="conferences">conferences</a>, writing <a href="https://blog.jdriven.com/author/ties-van-de-ven/" target="_blank" title="blogs" alt="blogs">blogs</a>, providing training on functional programming, and by coaching junior developers.
 He usually takes the practical approach by first explaining which problem we are trying to solve before going into technical details.
 His many years of teaching experience helps in explaining concepts in an easy to understand way.
 </p>
