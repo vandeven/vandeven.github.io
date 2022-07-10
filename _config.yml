@@ -26,7 +26,12 @@ markdown: kramdown
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
+
+gems:
+  - jekyll-font-awesome-sass
+  
+font-awesome:
+  assets: true
 
 excerpt_separator: <!--more-->
 
