@@ -7,7 +7,7 @@ permalink: /talks/
 .custom-table, th, td {
 	border: 0px solid;
 }
-tr:nth-child(even) {background-color: #B0C4DE;}
+tr:nth-child(odd) {background-color: #B0C4DE;}
 
 </style>
 # Upcoming
@@ -31,5 +31,4 @@ Tech talks (online)							| 2020 | Cleaner code 										| <a href="https://you
 Changecon (Zagreb)							| 2019 | Concepts that improve the way you think about code | <a href="https://www.youtube.com/watch?v=zcohV-P_9B8" target="_blank" class="fa-solid fa-video"></a>
 DevTalks (Bucharest)						| 2019 | Concepts that improve the way you think about code	||
 DevTalks (Cluj)								| 2019 | Concepts that improve the way you think about code	||
-
 {:.custom-table}
