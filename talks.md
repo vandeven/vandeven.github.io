@@ -12,9 +12,11 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
-JavaZone (Oslo)		| 2022 | Functional programming in Kotlin: Exploring arrow
-BasilOne (Basil)	| 2022 | Functional programming in Kotlin: Exploring arrow
-HeapCon (Belgrade) 	| 2022 | Functional programming in Kotlin: Exploring arrow
+JavaZone (Oslo)				| 2022 | Functional programming in Kotlin: Exploring arrow
+Houten (Vialis brownbag)	| 2022 | Modern Java
+Nieuwegein (JCore meetup)	| 2022 | Modern Java
+BasilOne (Basil)			| 2022 | Functional programming in Kotlin: Exploring arrow
+HeapCon (Belgrade) 			| 2022 | Functional programming in Kotlin: Exploring arrow
 {:.custom-table}
 
 # Talks I have given
