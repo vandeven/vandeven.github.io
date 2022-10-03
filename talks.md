@@ -12,13 +12,13 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
-Houten (Vialis brownbag)	| 2022 | Modern Java
 BasilOne (Basil)			| 2022 | Functional programming in Kotlin: Exploring arrow
 HeapCon (Belgrade) 			| 2022 | Functional programming in Kotlin: Exploring arrow
 {:.custom-table}
 
 # Talks I have given
 
+Houten (Vialis brownbag)					| 2022 | Modern Java 										| 																										| <a href="https://tiesvandeven.gitlab.io/futureofjava/#/" target="_blank" class="fa-solid fa-chalkboard"	></a>
 Devmotion (Nieuwegein)						| 2022 | Modern Java 										| 																										| <a href="https://tiesvandeven.gitlab.io/futureofjava/#/" target="_blank" class="fa-solid fa-chalkboard"	></a>
 JavaZone (Oslo)								| 2022 | Functional programming in Kotlin: Exploring arrow	| <a href="https://vimeo.com/748031479" target="_blank" class="fa-solid fa-video"></a> | <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 FortX (Niewegein)							| 2022 | Modern Java 										| 																										| <a href="https://tiesvandeven.gitlab.io/futureofjava/#/" target="_blank" class="fa-solid fa-chalkboard"	></a>
