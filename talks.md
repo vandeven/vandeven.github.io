@@ -14,6 +14,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 
 BasilOne (Basil)			| 2022 | Functional programming in Kotlin: Exploring arrow
 HeapCon (Belgrade) 			| 2022 | Functional programming in Kotlin: Exploring arrow
+Kotlin Dev Days Advanced	| 2022 | Data oriented programming
 {:.custom-table}
 
 # Talks I have given
