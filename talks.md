@@ -12,12 +12,12 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
-Kotlin Dev Days Advanced (Amsterdam)	| 2022 | Data oriented programming
 BrabantJUG ('s-Hertogenbosch)			| 2022 | Functional programming in Kotlin: Exploring arrow
 {:.custom-table}
 
 # Talks I have given
 
+Kotlin Dev Days Advanced (Amsterdam)		| 2022 | Data oriented programming							|																										| <a href="https://tiesvandeven.gitlab.io/dop/" target="_blank" class="fa-solid fa-chalkboard"></a>
 HeapCon (Belgrade) 							| 2022 | Functional programming in Kotlin: Exploring arrow 	|																										| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 BaselOne (Basel)							| 2022 | Functional programming in Kotlin: Exploring arrow 	|																										| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Houten (Vialis brownbag)					| 2022 | Modern Java 										| 																										| <a href="https://tiesvandeven.gitlab.io/futureofjava/#/" target="_blank" class="fa-solid fa-chalkboard"	></a>
