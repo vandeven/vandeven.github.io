@@ -12,6 +12,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
+FOSDEM (Kotlin room) (Brussel)		| 2022 | Data oriented programming
 {:.custom-table}
 
 # Talks I have given
