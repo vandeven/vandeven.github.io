@@ -13,6 +13,9 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 FOSDEM (Kotlin room) (Brussel)		| 2023 | Data oriented programming
+Arnhem JUG		| 2023 | Java's new paradigm
+Spillberg meetup (Amsterdam)	| 2023 | Functional programming in Kotlin: Exploring arrow
+
 {:.custom-table}
 
 # Talks I have given
