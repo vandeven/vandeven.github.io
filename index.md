@@ -17,6 +17,7 @@ I also found that sharing knowledge is a fun and useful way to expand my knowled
 I try to share knowledge by giving presentations at my company, customers (I can also almost always be found coaching junior developers there) and <a href="/talks" title="conferences" alt="conferences">conferences</a>.
 I also love to give <a href="/workshops" title="workshops" alt="conferences">Trainings / workshops</a> and write some <a href="https://blog.jdriven.com/author/ties-van-de-ven/" target="_blank" title="blogs" alt="blogs">blogs</a> now and then.
 What I feel that sets me aside from most other trainers/coaches is that I try to avoid the tecnhical details and focus more on concepts and looking at what problems we are trying to solve before going into possible solutions.
+I also started mentoring on <a href="https://mentors.codingcoach.io/u/639c88294474770664cbf315?name=Ties+van+de+Ven" title="codingcoach" alt="codingcoach">codingcoach</a>, a great platform where people can volunteer to be a mentor, and you can search for mentors as a mentee all for free.
 </p>
 <hr/>
 <p>
