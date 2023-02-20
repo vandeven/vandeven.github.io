@@ -3,8 +3,6 @@ layout: home
 permalink: /publications/
 ---
 
-# Publications
-
 Some other publications in magazines/podcasts I was part of.
 
 ## Magazines
