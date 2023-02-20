@@ -3,6 +3,8 @@ layout: home
 permalink: /abstracts/
 ---
 
+# BIO
+
 Ties is a Senior Software Engineer working for JDriven. He began his career mostly working on fixing bugs in a big monolithic application. This made him passionate about exploring concepts and ways to code to prevent bugs from ever occurring. He embraces this passion in his daily life by helping companies with architecture, programming, and training as a Sofware Consultant for JDriven.
 
 # Abstracts

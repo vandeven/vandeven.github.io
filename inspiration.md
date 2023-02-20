@@ -3,6 +3,8 @@ layout: home
 permalink: /inspiration/
 ---
 
+# Inspiration
+
 Here are just some talks/blogs that I found inspiring
 
 <i class="fa-solid fa-blog"></i> [Three tribes of programmers](https://josephg.com/blog/3-tribes/){:target="_blank"}
