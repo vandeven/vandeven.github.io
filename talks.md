@@ -12,7 +12,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
-
+Devoxx Poland				| 2023 | Empowering Your Development with FP: Understanding and Practice
 
 
 {:.custom-table}
