@@ -15,5 +15,10 @@ Some other publications in magazines/podcasts I was part of.
 
 ## Podcasts
 
-* Foojay podcast about debugging <a href="https://foojay.io/today/foojay-podcast-14/" target="_blank" class="fa-solid fa-book-open">
+### Foojay podcast about debugging 
+* <a href="https://foojay.io/today/foojay-podcast-14/" target="_blank">Foojay</a>
 
+### Passie voor Technologie about Functional programming (in dutch)
+* <a href="https://open.spotify.com/episode/0HF6JBWbWJs7AZTC1UhxUn?si=72ce3a15f01240ea&nd=1" target="_blank">Spotify</a>
+* <a href="https://podcasts.apple.com/nl/podcast/passie-voor-technologie-de-podcast/id1642600325?i=1000607510218" target="_blank">Apple Podcasts</a>
+* <a href="https://podcasts.google.com/u/0/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MGZiNjZmOC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwiCjIK-2uT8AhX1kP0HHZjpBaoQ9sEGegQIARAC" target="_blank">Google Podcasts</a>
