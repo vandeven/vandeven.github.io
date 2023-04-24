@@ -16,7 +16,7 @@ Some other publications in magazines/podcasts I was part of.
 ## Podcasts
 
 ### Foojay podcast about Functional Programming (April 24, 2023)
-* <a href="https://foojay.io/today/foojay-podcast-20/" target="_blank">Foojay</a>
+* <a href="https://foojay.io/today/foojay-podcast-20/" target="_blank">Foojay Podcast #20: Functional Programming, “The Good, the Bad, and the Ugly”</a>
 * <a href="https://open.spotify.com/episode/5W4B3ohd4VrwmB1Iu39D6A" target="_blank">Spotify</a>
 
 ### Passie voor Technologie about Functional programming (in dutch) (April 5, 2023)
@@ -25,6 +25,6 @@ Some other publications in magazines/podcasts I was part of.
 * <a href="https://podcasts.google.com/u/0/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MGZiNjZmOC9wb2RjYXN0L3Jzcw/episode/OWJjZmQ2OWUtZjRhYy00M2JjLThjMTEtNTc5YjkzODEwMDkw?sa=X&ved=0CAUQkfYCahcKEwjIxaL94pL-AhUAAAAAHQAAAAAQAQ" target="_blank">Google Podcasts</a>
 
 ### Foojay podcast about debugging (February 20, 2023)
-* <a href="https://foojay.io/today/foojay-podcast-14/" target="_blank">Foojay</a>
+* <a href="https://foojay.io/today/foojay-podcast-14/" target="_blank">Foojay Podcast #14: Debugging Tools and Skills for Fun and Profit</a>
 * <a href="https://open.spotify.com/episode/7d7vXq166rWfHUNqvSsCtU" target="_blank">Spotify</a>
 
