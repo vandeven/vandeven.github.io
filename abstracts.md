@@ -9,6 +9,19 @@ Ties is a Senior Software Engineer working for JDriven. He began his career most
 
 # Abstracts
 
+## Empowering Your Development with FP: Understanding and Practice
+
+Functional Programming (FP) has become an increasingly popular programming paradigm, known for its ability to simplify code and increase efficiency. 
+However, for many developers, the transition from traditional programming to FP can be challenging.
+This talk aims to bridge the gap by providing a comprehensive introduction to FP and demonstrating how it can empower your development.
+We will start by discussing the core concepts of FP, including immutability, pure functions, and higher-order functions.
+From there, we will dive into the practical applications of FP, highlighting its benefits and drawbacks.
+You will learn how to implement FP in your own projects and how to approach common challenges when transitioning to FP.
+Whether you are new to FP or looking to deepen your understanding, this talk will provide you with the tools and knowledge needed to empower your development and take your coding skills to the next level.
+By the end of this talk, you will have a strong understanding of FP and the confidence to incorporate it into your own projects.
+Join us and discover how FP can help you write cleaner, more efficient, and maintainable code.
+
+
 ## Functional programming in Kotlin: exploring Arrow
 
 Functional programming is gaining popularity and partly because of this people have been switching to Kotlin.
