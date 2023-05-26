@@ -12,6 +12,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
+HeapCon					| 2023 | Java's new paradigm
 Joy of Coding				| 2023 | The wonder of Open Source
 FullStackConf JDriven		| 2023 | Empowering Your Development with FP: Understanding and Practice
 Devtalks Romania			| 2023 | Empowering Your Development with FP: Understanding and Practice
