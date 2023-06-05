@@ -12,17 +12,17 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
-HeapCon					| 2023 | Java's new paradigm
+HeapCon						| 2023 | Java's new paradigm
 Joy of Coding				| 2023 | The wonder of Open Source
 FullStackConf JDriven		| 2023 | Empowering Your Development with FP: Understanding and Practice
 Devtalks Romania			| 2023 | Empowering Your Development with FP: Understanding and Practice
-Devoxx Poland				| 2023 | Empowering Your Development with FP: Understanding and Practice
 
 
 {:.custom-table}
 
 # Talks I have given
 
+Devoxx Poland								| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Spillberg meetup (Amsterdam)				| 2023 | Functional programming in Kotlin: Exploring arrow 	|																										| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Arnhem JUG									| 2023 | Java's new paradigm								|| <a href="https://tiesvandeven.gitlab.io/dopinjava/" target="_blank" class="fa-solid fa-chalkboard"></a>
 FOSDEM (Kotlin room) (Brussel)				| 2023 | Data oriented programming							|| <a href="https://tiesvandeven.gitlab.io/dop/" target="_blank" class="fa-solid fa-chalkboard"></a>
