@@ -1,0 +1,21 @@
+How magic tricks made me a better programmer:
+
+- amature magician
+
+> Show aces trick (live)
+
+> Explain aces (live)
+
+- Devoxx4kids
+
+> Break down aces (composition diagram)
+
+- programming
+- Contract
+
+- Tease trick at the end
+
+
+> Show triumph (live)
+- Now you have 10 minutes left to figure out how I did that
+- If you get it right you get a waffle
