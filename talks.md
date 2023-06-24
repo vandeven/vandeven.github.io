@@ -13,15 +13,16 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 HeapCon	(Belgrade)						| 2023 | Java's new paradigm
-Joy of Coding (Rotterdam)				| 2023 | The wonder of Open Source
-FullStackConf JDriven (Nieuwegein)		| 2023 | Empowering Your Development with FP: Understanding and Practice
-Devtalks Romania (Bucharest)			| 2023 | Empowering Your Development with FP: Understanding and Practice
+
 
 
 {:.custom-table}
 
 # Talks I have given
 
+Joy of Coding (Rotterdam)					| 2023 | The wonder of Open Source | | <a href="https://tiesvandeven.gitlab.io/wonderofopensource/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Devtalks Romania (Bucharest)				| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
+FullStackConf JDriven (Nieuwegein)			| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Devoxx Poland (Krakow)						| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Spillberg meetup (Amsterdam)				| 2023 | Functional programming in Kotlin: Exploring arrow 	|																										| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Arnhem JUG (Arnhem)							| 2023 | Java's new paradigm								|| <a href="https://tiesvandeven.gitlab.io/dopinjava/" target="_blank" class="fa-solid fa-chalkboard"></a>
@@ -36,7 +37,7 @@ JavaZone (Oslo)								| 2022 | Functional programming in Kotlin: Exploring arro
 FortX (Niewegein)							| 2022 | Modern Java 										| 																										| <a href="https://tiesvandeven.gitlab.io/futureofjava/#/" target="_blank" class="fa-solid fa-chalkboard"	></a>
 Devoxx Poland (Krakow)						| 2022 | Functional programming in Kotlin: Exploring arrow 	| <a href="https://www.youtube.com/watch?v=8ZUlFnUL_wo" target="_blank" class="fa-solid fa-video"></a>	| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Voxxed Days Luxemburg (Mondorf-les-Bains)	| 2022 | Functional programming in Kotlin: Exploring arrow	| <a href="https://www.youtube.com/watch?v=xxePZQlNyYY" target="_blank" class="fa-solid fa-video"></a> 	| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
-Joy of Coding (Rotterdam)					| 2022 | Macro impact with the Micro::Bit 					| 																										| <a href="https://tiesvandeven.gitlab.io/macro-impact-with-microbit/#/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Joy of Coding (Rotterdam)					| 2022 | Macro impact with the Micro::Bit 					| <a href="https://youtu.be/03TCjVdFV60?t=1257" target="_blank" class="fa-solid fa-video"></a>			| <a href="https://tiesvandeven.gitlab.io/macro-impact-with-microbit/#/" target="_blank" class="fa-solid fa-chalkboard"></a>
 DevoxxUK (London)							| 2022 | Functional programming in Kotlin: Exploring arrow 	| <a href="https://www.youtube.com/watch?v=eFheAErqJzA" target="_blank" class="fa-solid fa-video"></a> 	| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 CodeMotion Italy (online)					| 2022 | Functional programming in Kotlin: Exploring arrow 	|																										| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
 JavaLand (Brühl)							| 2022 | Functional programming in Kotlin: Exploring arrow 	|																										| <a href="https://tiesvandeven.gitlab.io/fpinarrow/" target="_blank" class="fa-solid fa-chalkboard"></a>
