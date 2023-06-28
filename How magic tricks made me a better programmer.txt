@@ -1,6 +1,6 @@
 How magic tricks made me a better programmer:
 
-- amature magician
+- amateur magician
 
 > Show aces trick (live)
 
