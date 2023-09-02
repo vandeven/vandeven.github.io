@@ -12,8 +12,9 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
+OOP (Munich)							| 2024 | Creepy Crawly Chronicles: Stories of bugs found in the wild
 HeapCon	(Belgrade)						| 2023 | Java's new paradigm
-
+Softcon	Philippines (online)			| 2023 | Empowering Your Development with FP: Understanding and Practice
 
 
 {:.custom-table}

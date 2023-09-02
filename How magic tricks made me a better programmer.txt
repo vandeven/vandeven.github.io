@@ -1,21 +1,61 @@
-How magic tricks made me a better programmer:
+How card magic made me a better programmer
 
-- amature magician
+Have you ever seen a magic trick and asked yourself: "how the heck did he do that?".
+Well, years ago I saw a magician perform a trick on TV and I had exactly that.
+This got me so frustrated that I decided to learn the basics of card magic.
+During my journey of learning the craft I noticed that while the reveal is magical, the process of getting there is actually quite similar to programming.
+So, are you ready to learn what magic has to do with programming and how it can help you to be a better magician/programmer? Then this is the talk for you.
+Bonus: you will actually learn a cool magic trick :)
+
+Elevator pitch
+It turns out card magic, just like programming, is just problem solving.
+In this talk we will go into problem solving in programming (using composition and type system) by explaining how a card trick works.
+So it will be both educational and entertaining.
+
+This is a new talk where I will perform a trick on stage (ill need a table for that and ill arrange a webcam myself).
+I am not 100% about the length yet (thinking it should be around 30-40 minutes), that is why I submitted it as a lunch talk (if it is finished a bit earlier, people can just enjoy their lunch this way) and I figured this would be entertaining enough of a talk that it would work quite well as a lunch session.
+
+
+
+
+Outline:
 
 > Show aces trick (live)
 
 > Explain aces (live)
 
-- Devoxx4kids
+- Tease trick at the end
 
 > Break down aces (composition diagram)
+- Show that it is actually a function that goes from RandomDeck to CardBetweenAces
+- Show how this is actually function composition
+- Dominos
+- Streaming API
 
-- programming
-- Contract
+> Mention that I volunteer for Devoxx4kids and that I had to come up with tricks on the spot for the kids.
+- Show how to apply problem solving techniques for this.
+- Talk about how I can reuse moves to create new tricks
 
-- Tease trick at the end
+> Reusability
+
+- Thinking in types
+- Using types to get rid of nullable fields
+- Using types to enforce architecture
+
 
 
 > Show triumph (live)
 - Now you have 10 minutes left to figure out how I did that
 - If you get it right you get a waffle
+
+
+
+Notes:
+
+Presentation vs mechanics
+presentation -> how a user experiences the software
+
+How it started
+
+Shawn Farquhar
+
