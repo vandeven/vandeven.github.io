@@ -50,12 +50,14 @@ Outline:
 
 
 
+
+
+
 Notes:
 
 Presentation vs mechanics
 presentation -> how a user experiences the software
 
 How it started
-
 Shawn Farquhar
 
