@@ -21,6 +21,7 @@ Softcon	Philippines (online)			| 2023 | Empowering Your Development with FP: Und
 
 # Talks I have given
 
+Dutch Kotlin User Group MeetUp  (Amsterdam)	| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empowerkotlin/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Joy of Coding (Rotterdam)					| 2023 | The wonder of Open Source | | <a href="https://tiesvandeven.gitlab.io/wonderofopensource/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Devtalks Romania (Bucharest)				| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 FullStackConf JDriven (Nieuwegein)			| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
