@@ -5,21 +5,14 @@ permalink: /abstracts/
 
 # BIO
 
-Ties is a Senior Software Engineer working for JDriven. He began his career mostly working on fixing bugs in a big monolithic application. This made him passionate about exploring concepts and ways to code to prevent bugs from ever occurring. He embraces this passion in his daily life by helping companies with architecture, programming, and training as a Sofware Consultant for JDriven.
+Ties is a software engineer with passion for concepts, sofware engineering fundamentals and helping others.
+He combines these passions by doing public speaking, volenteer work for organisations like Devoxx4kids and codingcoach and working as a Software Quality Expert at Alliander.
 
 # Abstracts
 
 ## Empowering Your Development with FP: Understanding and Practice
 
-Functional Programming (FP) has become an increasingly popular programming paradigm, known for its ability to simplify code and increase efficiency. 
-However, for many developers, the transition from traditional programming to FP can be challenging.
-This talk aims to bridge the gap by providing a comprehensive introduction to FP and demonstrating how it can empower your development.
-We will start by discussing the core concepts of FP, including immutability, pure functions and error handling.
-From there, we will dive into the practical applications of FP, highlighting its benefits and drawbacks.
-Whether you are new to FP or looking to deepen your understanding, this talk will provide you with the tools and knowledge needed to empower your development and take your coding skills to the next level.
-By the end of this talk, you will have a strong understanding of FP and the confidence to incorporate it into your own projects.
-Join us and discover how FP can help you write cleaner, more efficient, and maintainable code.
-
+There are a lot of talks about the newest tools libraries and frameworks but sometimes it is good to take a step back and think about the underlying problems they are trying to solve. In this talk we will go into the 4 fundamental aspects within software engineering; problem solving and managing state, errors and side effects. We will offer solutions and trade-offs (so no silver bullets) and you might learn some tricks for problem solving as well. This talk will contain a bit of theory, but we will mostly focus on the practical side so you can use the given solutions in your code-base tomorrow.
 
 ## Functional programming in Kotlin: exploring Arrow
 
