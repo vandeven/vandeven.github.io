@@ -10,6 +10,14 @@ He combines these passions by doing public speaking, volenteer work for organisa
 
 # Abstracts
 
+
+## Creepy Crawly Chronicles
+
+(Joint presentation with <a href="https://mostlynerdless.de/">Johannes Bechberger</a> & <a href="https://maritvandijk.com/">Marit van Dijk</a>)
+
+When attending conferences, we mostly hear success stories of problems solved with new and trendy technologies. And while success stories are nice, it can be more educational and fun to see how things can catastrophically go wrong and what we can learn from these failures.
+In this talk, we will discuss (in)famous bugs found in the wild, ranging from strange inconveniences to bugs that rigged elections, bankrupt companies, or made things literally explode.
+
 ## Empowering Your Development with FP: Understanding and Practice
 
 There are a lot of talks about the newest tools libraries and frameworks but sometimes it is good to take a step back and think about the underlying problems they are trying to solve. In this talk we will go into the 4 fundamental aspects within software engineering; problem solving and managing state, errors and side effects. We will offer solutions and trade-offs (so no silver bullets) and you might learn some tricks for problem solving as well. This talk will contain a bit of theory, but we will mostly focus on the practical side so you can use the given solutions in your code-base tomorrow.
