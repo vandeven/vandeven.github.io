@@ -12,15 +12,12 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 </style>
 # Upcoming
 
-OOP (Munich)							| 2024 | Creepy Crawly Chronicles: Stories of bugs found in the wild
-HeapCon	(Belgrade)						| 2023 | Java's new paradigm
-Softcon	Philippines (online)			| 2023 | Empowering Your Development with FP: Understanding and Practice
-
-
 {:.custom-table}
 
 # Talks I have given
 
+HeapCon	(Belgrade)							| 2023 | Java's new paradigm								|| <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Softcon	Philippines (online)				| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dutch Kotlin User Group MeetUp  (Amsterdam)	| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empowerkotlin/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Joy of Coding (Rotterdam)					| 2023 | The wonder of Open Source | | <a href="https://tiesvandeven.gitlab.io/wonderofopensource/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Devtalks Romania (Bucharest)				| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
