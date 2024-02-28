@@ -5,8 +5,8 @@ permalink: /abstracts/
 
 # BIO
 
-Ties is a software engineer with passion for concepts, sofware engineering fundamentals and helping others.
-He combines these passions by doing public speaking, volenteer work for organisations like Devoxx4kids and codingcoach and working as a Software Quality Expert at Alliander.
+Ties is a software engineer with passion for concepts, software engineering fundamentals and helping others.
+He combines these passions by doing public speaking, volunteer work for organisations like Devoxx4kids and codingcoach and working as a Software Quality Expert at Alliander.
 
 # Abstracts
 
