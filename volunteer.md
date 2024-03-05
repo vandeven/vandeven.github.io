@@ -3,7 +3,7 @@ layout: home
 permalink: /volunteer/
 ---
 
->> "Knowledge Is The Only Thing That Increases As You Give It Away".
+> "Knowledge Is The Only Thing That Increases As You Give It Away".
 
 I think sharing knowledge is fundamental for craftsmanship.
 As such I try to do my best to help as many people as I can.
