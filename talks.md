@@ -13,10 +13,11 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 {:.custom-table}
+Apeldoorn JUG (Apeldoorn)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 
 # Talks I have given
 
-HeapCon	(Belgrade)							| 2023 | Java's new paradigm								| <a href="https://www.youtube.com/watch?v=sI2Cel-EGww" target="_blank" class="fa-solid fa-video"></a> | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
+HeapCon	(Belgrade)							| 2023 | Java's new paradigm								|<a href="https://www.youtube.com/watch?v=Wojgv2MeMGU" target="_blank" class="fa-solid fa-video"></a>| <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Softcon	Philippines (online)				| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dutch Kotlin User Group MeetUp (Amsterdam)	| 2023 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empowerkotlin/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Joy of Coding (Rotterdam)					| 2023 | The wonder of Open Source | | <a href="https://tiesvandeven.gitlab.io/wonderofopensource/" target="_blank" class="fa-solid fa-chalkboard"></a>
