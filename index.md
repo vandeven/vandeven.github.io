@@ -3,7 +3,7 @@ layout: home
 ---
 <p>
 <img src="assets/img/profile.jpg" style="width:200px;height:200px;float:left;margin-right:15px">
-I'm a passionate Senior software engineer working for <a href="www.alliander.com" title="Alliander" alt="Alliander" target="_blank">Alliander</a>.
+I'm a passionate Senior software engineer working for <a href="http://www.alliander.com" title="Alliander" alt="Alliander" target="_blank">Alliander</a>.
 After many hours of fixing bugs a passion grew inside me; I wanted to find a way to prevent these bugs from occurring in the first place.
 This passion set me on the path to learning more about software engineering fundamentals and about software engineering as a craft.
 </p>
