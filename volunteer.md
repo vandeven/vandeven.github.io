@@ -15,4 +15,8 @@ If you are in need of some coaching, feel free to send me a message on LinkedIn,
 * CodingDojo
 
 # Teaching adults
-Coached multiple people on <a href="https://mentors.codingcoach.io/u/639c88294474770664cbf315?name=Ties+van+de+Ven" title="codingcoach" alt="codingcoach" target="_blank">Codingcoach</a>
+* Coached multiple people on <a href="https://mentors.codingcoach.io/u/639c88294474770664cbf315?name=Ties+van+de+Ven" title="codingcoach" alt="codingcoach" target="_blank">Codingcoach</a>
+* Speaking at multiple conferences
+* Speaking at multiple JUG's/community events 
+* Helping ArnhemJUG
+* JFall program committee (for 2 years)
