@@ -13,7 +13,9 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 {:.custom-table}
+Coimbra JUG (Coimbra)						| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Apeldoorn JUG (Apeldoorn)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Bangalore JUG (Bangalore)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 
 # Talks I have given
 
