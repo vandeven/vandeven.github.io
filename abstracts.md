@@ -10,6 +10,18 @@ He combines these passions by doing public speaking, volunteer work for organisa
 
 # Abstracts
 
+## Effective problem solving
+
+Software engineering is a field that is evolving rapidly. About 10 years ago we were manually installing things on that one named server while these days we run hundreds of services in a cloud environment.
+It can be challenging to keep up with all these developments in our field.
+What is interesting however, is that the problems we are solving these days are conceptually the same problems we were solving 10 years ago.
+For example, there were a few technologies for services to find eachother like Spring’s Eureka or Kubernetes DNS. At first glance these seem very different technologies but once you realize they solve the same problem (service discovery), knowledge of one of those is very much transferable to the other.
+
+In this talk we will not go into this cloud stuff, instead we will look at the kind of problems you, a Java developer, encounter every day.
+We will dive into the fundamental problems of software engineering (like state management and side-effect management) and focus on how we can use this knowledge as building blocks to answer problems like why some code seems to be untestable or to finally end the discussion about if static is indeed the root of all evil (spoiler… it’s not). We will also look at how to break down problems in such a way we can use the Java standard libraries to solve them.
+
+As a programmer, critical thinking and problem solving, not writing code itself, is most of the work.
+So join me today in our journey to learn to become an effective problem solver.
 
 ## Empowering Your Development with FP: Understanding and Practice
 
