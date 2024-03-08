@@ -16,6 +16,8 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 Coimbra JUG (Coimbra)						| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Apeldoorn JUG (Apeldoorn)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Bangalore JUG (Bangalore)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Java day Istanbul (Istanbul) 				| 2024 | Bootiful Kubernetes Operators (with <a href="https://tiffanyfay.dev/">Tiffany Jernigan</a> | |
+GeeCon (Krakow) 							| 2024 | Bootiful Kubernetes Operators (with <a href="https://tiffanyfay.dev/">Tiffany Jernigan</a> | |
 
 # Talks I have given
 
