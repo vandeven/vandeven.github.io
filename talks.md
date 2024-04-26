@@ -19,7 +19,7 @@ GeeCon (Krakow) 							| 2024 | Bootiful Kubernetes Operators (with <a href="htt
 
 # Talks I have given
 
-Bangalore JUG (Bangalore)					| 2024 | Java's new paradigm								| | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Bangalore JUG (Bangalore)					| 2024 | Java's new paradigm								| <a href="https://www.youtube.com/watch?v=qR7G5hgumwU&si=ALeQ607qk8I9EQoY" target="_blank" class="fa-solid fa-chalkboard"> | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Apeldoorn JUG (Apeldoorn)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Coimbra JUG (Coimbra)						| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 HeapCon	(Belgrade)							| 2023 | Java's new paradigm								|<a href="https://www.youtube.com/watch?v=Wojgv2MeMGU" target="_blank" class="fa-solid fa-video"></a>| <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
