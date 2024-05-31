@@ -8,6 +8,8 @@ permalink: /abstracts/
 Ties is a software engineer with a passion for concepts, software engineering fundamentals and helping others.
 He combines these passions by doing public speaking, volunteer work for organisations like Devoxx4kids and codingcoach and working as a Software Quality Expert at Alliander.
 
+<img src="assets/img/DSCF1417.jpg" style="width:200px;height:200px;float:left;margin-right:15px">
+
 # Abstracts
 
 ## Effective problem solving
