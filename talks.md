@@ -13,6 +13,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 {:.custom-table}
+Joy of Coding (Rotterdam)				| 2024 | Teaching the next generation | |
 T-DOSE (Geldrop)						| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 T-DOSE	(Geldrop)						| 2024 | Java's new paradigm								| | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
 
