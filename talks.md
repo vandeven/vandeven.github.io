@@ -18,10 +18,11 @@ Joy of Coding (Rotterdam)				| 2024 | Teaching the next generation | |
 
 # Talks I have given
 
+Riyadh Java User Group (online)				
 T-DOSE (Geldrop)							| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
-T-DOSE	(Geldrop)							| 2024 | Java's new paradigm								| | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
+T-DOSE (Geldrop)							| 2024 | Java's new paradigm								| | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
 GeeCon (Krakow) 							| 2024 | Bootiful Kubernetes Operators (with <a href="https://tiffanyfay.dev/">Tiffany Jernigan</a>) | | <a href="https://docs.google.com/presentation/d/13pgQJGC6c854pDRW1TJFo4RFnjSIdXdX/edit#slide=id.p1" target="_blank" class="fa-solid fa-chalkboard"></a>
-Java day Istanbul (Istanbul) 				| 2024 | Bootiful Kubernetes Operators (with <a href="https://tiffanyfay.dev/">Tiffany Jernigan</a>) | | <a href="https://docs.google.com/presentation/d/13pgQJGC6c854pDRW1TJFo4RFnjSIdXdX/edit#slide=id.p1" target="_blank" class="fa-solid fa-chalkboard"></a>
+Java day Istanbul (Istanbul) 				| 2024 | Bootiful Kubernetes Operators (with <a href="https://tiffanyfay.dev/">Tiffany Jernigan</a>) | <a href="https://www.youtube.com/watch?v=KMfnBl1Pg0U&pp=ygUPVGllcyB2YW4gZGUgVkVu" target="_blank" class="fa-solid fa-video"> | <a href="https://docs.google.com/presentation/d/13pgQJGC6c854pDRW1TJFo4RFnjSIdXdX/edit#slide=id.p1" target="_blank" class="fa-solid fa-chalkboard"></a>
 Bangalore JUG (Bangalore)					| 2024 | Java's new paradigm								| <a href="https://www.youtube.com/watch?v=qR7G5hgumwU&si=ALeQ607qk8I9EQoY" target="_blank" class="fa-solid fa-video"> | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Apeldoorn JUG (Apeldoorn)					| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 Coimbra JUG (Coimbra)						| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
