@@ -18,7 +18,7 @@ Joy of Coding (Rotterdam)				| 2024 | Teaching the next generation | |
 
 # Talks I have given
 
-Riyadh Java User Group (online)				| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
+Riyadh Java User Group (online)				| 2024 | Empowering Your Development with FP: Understanding and Practice | <a href="https://www.youtube.com/live/RA909yYAoTc" target="_blank" class="fa-solid fa-video"></a> | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 T-DOSE (Geldrop)							| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 T-DOSE (Geldrop)							| 2024 | Java's new paradigm											 | | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
 GeeCon (Krakow) 							| 2024 | Bootiful Kubernetes Operators (with <a href="https://tiffanyfay.dev/" target="_blank">Tiffany Jernigan</a>) | | <a href="https://docs.google.com/presentation/d/13pgQJGC6c854pDRW1TJFo4RFnjSIdXdX/edit#slide=id.p1" target="_blank" class="fa-solid fa-chalkboard"></a>
