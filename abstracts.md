@@ -12,6 +12,14 @@ He combines these passions by doing public speaking, volunteer work for organisa
 
 # Abstracts
 
+## Monads explained
+
+Functional programming terminology can be quite intimidating, but it does not have to be.
+Learning this terminology actually helped me in becoming a better problem solver, and therefor better at programming (in any language).
+In this talk we will go into what all these fancy words like monad, monoid, functor etc. actually mean.
+We will go into a bit of theory (but not as far as category theory), and there will be a strong focus on practical everyday examples.
+After this talk you will see that you have been using monads all along, know why the Java Optional is not a monad, and your abstract thinking skills will level up.
+
 ## Effective problem solving
 
 Software engineering is a field that is evolving rapidly. About 10 years ago we were manually installing things on that one named server while these days we run hundreds of services in a cloud environment.
