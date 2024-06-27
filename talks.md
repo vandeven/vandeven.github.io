@@ -16,6 +16,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 JavaZone (Oslo)								| 2024 | Monads explained || 
 
 # Talks I have given
+
 Joy of Coding (Rotterdam)					| 2024 | Teaching the next generation | | <a href="https://docs.google.com/presentation/d/1y7Ca-w5-hYNMQKHfHAsthcApIkBOZq32KsXokqtGN7g/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Riyadh Java User Group (online)				| 2024 | Empowering Your Development with FP: Understanding and Practice | <a href="https://www.youtube.com/live/RA909yYAoTc" target="_blank" class="fa-solid fa-video"></a> | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 T-DOSE (Geldrop)							| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
