@@ -17,7 +17,7 @@ JavaZone (Oslo)								| 2024 | Monads explained ||
 
 # Talks I have given
 
-Joy of Coding (Rotterdam)					| 2024 | Teaching the next generation | | <a href="https://docs.google.com/presentation/d/1y7Ca-w5-hYNMQKHfHAsthcApIkBOZq32KsXokqtGN7g/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+Joy of Coding (Rotterdam)					| 2024 | Teaching the next generation | <a href="https://www.youtube.com/watch?v=TFw3zPqlQjA&t=912s" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/1y7Ca-w5-hYNMQKHfHAsthcApIkBOZq32KsXokqtGN7g/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Riyadh Java User Group (online)				| 2024 | Empowering Your Development with FP: Understanding and Practice | <a href="https://www.youtube.com/live/RA909yYAoTc" target="_blank" class="fa-solid fa-video"></a> | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 T-DOSE (Geldrop)							| 2024 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
 T-DOSE (Geldrop)							| 2024 | Java's new paradigm											 | | <a href="https://tiesvandeven.gitlab.io/dopinjava2/" target="_blank" class="fa-solid fa-chalkboard"></a>
