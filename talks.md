@@ -13,6 +13,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 {:.custom-table}
+JFall (Ede)										| 2024 | Empowering Your Development with FP: Understanding and Practice
 HeapCon	(Belgrade)								| 2024 | Effective problem solving || 
 
 # Talks I have given
