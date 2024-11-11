@@ -13,11 +13,12 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 {:.custom-table}
-JFall (Ede)										| 2024 | Empowering Your Development with FP: Understanding and Practice
-HeapCon	(Belgrade)								| 2024 | Effective problem solving || 
+JavaLand (Nürburgring)	| 2025 | Monads explained
 
 # Talks I have given
 
+HeapCon	(Belgrade)							| 2024 | Effective problem solving || <a href="https://docs.google.com/presentation/d/1f2IqnZmztEAMsar6DhRElAQiqobiAV1W-f4h8XNrcao/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+JFall (Ede)									| 2024 | Empowering Your Development with FP: Understanding and Practice || <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JavaZone (Oslo)								| 2024 | Monads explained | <a href="https://vimeo.com/1006231190" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/18TObrPWmJtOHMbsdP5tfr6rOCuhzKYrgfNZ_z-ZACJo/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Joy of Coding (Rotterdam)					| 2024 | Teaching the next generation | <a href="https://www.youtube.com/watch?v=TFw3zPqlQjA&t=912s" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/1y7Ca-w5-hYNMQKHfHAsthcApIkBOZq32KsXokqtGN7g/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Riyadh Java User Group (online)				| 2024 | Empowering Your Development with FP: Understanding and Practice | <a href="https://www.youtube.com/live/RA909yYAoTc" target="_blank" class="fa-solid fa-video"></a> | <a href="https://tiesvandeven.gitlab.io/empower/" target="_blank" class="fa-solid fa-chalkboard"></a>
