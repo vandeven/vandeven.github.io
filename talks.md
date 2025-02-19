@@ -20,7 +20,7 @@ Java's Greatest (Utrecht) | 2025 | Empowering Your Development with FP: Understa
 
 # Talks I have given
 
-HeapCon	(Belgrade)							| 2024 | Effective problem solving || <a href="https://docs.google.com/presentation/d/1f2IqnZmztEAMsar6DhRElAQiqobiAV1W-f4h8XNrcao/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+HeapCon	(Belgrade)							| 2024 | Effective problem solving | <a href="https://www.youtube.com/watch?v=bwkRQfth7S0" target="_blank" class="fa-solid fa-video"> | <a href="https://docs.google.com/presentation/d/1f2IqnZmztEAMsar6DhRElAQiqobiAV1W-f4h8XNrcao/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JFall (Ede)									| 2024 | Empowering Your Development with FP: Understanding and Practice |  <a href="https://www.youtube.com/watch?v=F8iGVvAbeLg" target="_blank" class="fa-solid fa-video">| <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 ArnhemJUG (Arnhem)							| 2024 | Monads explained | | <a href="https://docs.google.com/presentation/d/18TObrPWmJtOHMbsdP5tfr6rOCuhzKYrgfNZ_z-ZACJo/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JavaZone (Oslo)								| 2024 | Monads explained | <a href="https://vimeo.com/1006231190" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/18TObrPWmJtOHMbsdP5tfr6rOCuhzKYrgfNZ_z-ZACJo/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
