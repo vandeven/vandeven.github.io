@@ -14,6 +14,9 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 
 {:.custom-table}
 JavaLand (Nürburgring)	| 2025 | Monads explained
+NimmaCodes (Nijmegen)	| 2025 | Monads explained
+UtrechtJUG (Utrecht)	| 2025 | Monads explained
+Java's Greatest (Utrecht) | 2025 | Empowering Your Development with FP: Understanding and Practice
 
 # Talks I have given
 
