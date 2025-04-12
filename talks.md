@@ -11,12 +11,17 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 
 </style>
 # Upcoming
-
+JavaCro (Rovinj)							| 2025 | Spring magic explained
+JavaLand (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
+Joy of Coding (Rotterdam)					| 2025 | Esoteric programming languages
 {:.custom-table}
-JavaLand (Nürburgring)	| 2025 | Monads explained
+
 
 # Talks I have given
 
+JavaLand (Nürburgring)						| 2025 | Monads explained | | <a href="https://docs.google.com/presentation/d/1PpJEgxJ34zYC-aMkRx1krLn5fTQ6tUqcSvnZDxXVVpU/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+NimmaCodes (Arnhem)							| 2025 | Monads explained | | <a href="https://docs.google.com/presentation/d/18TObrPWmJtOHMbsdP5tfr6rOCuhzKYrgfNZ_z-ZACJo/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+Java's greatest (Utrecht)					| 2025 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 HeapCon	(Belgrade)							| 2024 | Effective problem solving || <a href="https://docs.google.com/presentation/d/1f2IqnZmztEAMsar6DhRElAQiqobiAV1W-f4h8XNrcao/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JFall (Ede)									| 2024 | Empowering Your Development with FP: Understanding and Practice |  <a href="https://www.youtube.com/watch?v=F8iGVvAbeLg" target="_blank" class="fa-solid fa-video">| <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 ArnhemJUG (Arnhem)							| 2024 | Monads explained | | <a href="https://docs.google.com/presentation/d/18TObrPWmJtOHMbsdP5tfr6rOCuhzKYrgfNZ_z-ZACJo/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
