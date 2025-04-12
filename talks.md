@@ -11,10 +11,12 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 
 </style>
 # Upcoming
+
+{:.custom-table}
 JavaCro (Rovinj)							| 2025 | Spring magic explained
 JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
 Joy of Coding (Rotterdam)					| 2025 | Esoteric programming languages
-{:.custom-table}
+
 
 # Talks I have given
 
