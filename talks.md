@@ -16,7 +16,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 JavaCro (Rovinj)							| 2025 | Spring magic explained
 JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
 Dev2Next (Colorado Springs)					| 2025 | Spring magic explained
-dev2next (Colorado Springs)					| 2025 | Empowering Your Development with FP: Understanding and Practice
+Dev2Next (Colorado Springs)					| 2025 | Empowering Your Development with FP: Understanding and Practice
 Joy of Coding (Rotterdam)					| 2025 | Esoteric programming languages
 Full Stack Conference (Utrecht)				| 2024 | Monads explained
 
