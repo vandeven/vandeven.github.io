@@ -12,6 +12,10 @@ He combines these passions by doing public speaking, volunteer work for organisa
 
 # Abstracts
 
+## Spring magic explained
+
+“Failed to Load ApplicationContext” is an error we see a lot, but what does it mean? In this session we will go into the basics of Spring Framework, what mental model you need to reason about Spring and how Spring does it’s magic under the hood. We will learn about the application context, what problems it solves, different ways to create beans and the real power behind Spring Boot: conditional bean loading. So if you like a deeper understanding and a better mental model about how Spring works explained in a beginner friendly way, this is the talk for you.
+
 ## Monads explained
 
 Functional programming terminology can be quite intimidating, but it does not have to be. Learning this terminology actually helped me in becoming a better problem solver, and therefor better at programming (in any language). In this talk we will go into what all these fancy words like monad, monoid, functor etc. actually mean. We will go into a bit of theory but there will be no mathematics, and there will be a strong focus on practical everyday examples in Java. After this talk you will see that you have been using monads all along, know why the Java Optional is not a monad, and your abstract thinking skills will level up.
