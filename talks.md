@@ -17,12 +17,13 @@ JavaCro (Rovinj)							| 2025 | Spring magic explained
 JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
 Dev2Next (Colorado Springs)					| 2025 | Spring magic explained
 Dev2Next (Colorado Springs)					| 2025 | Empowering Your Development with FP: Understanding and Practice
-Joy of Coding (Rotterdam)					| 2025 | Esoteric programming languages
-Full Stack Conference (Utrecht)				| 2024 | Monads explained
+JavaZone (Oslo)								| 2025 | A fresh look at fundamentals
 
 
 # Talks I have given
 
+Joy of Coding (Rotterdam)					| 2025 | Esoteric programming languages | <a href="https://youtu.be/Xjpyh01teew?si=1kPfZ-WabNml48kI&t=1801" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/1PfFvb5WYxGqYHHM_3IvkqldYvj0GAbLtqnZXy_IoPKs/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+Full Stack Conference (Utrecht)				| 2024 | Monads explained | | <a href="https://docs.google.com/presentation/d/1PpJEgxJ34zYC-aMkRx1krLn5fTQ6tUqcSvnZDxXVVpU/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JavaLand (Nürburgring)						| 2025 | Monads explained | | <a href="https://docs.google.com/presentation/d/1PpJEgxJ34zYC-aMkRx1krLn5fTQ6tUqcSvnZDxXVVpU/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 NimmaCodes (Arnhem)							| 2025 | Monads explained | | <a href="https://docs.google.com/presentation/d/18TObrPWmJtOHMbsdP5tfr6rOCuhzKYrgfNZ_z-ZACJo/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Java's greatest (Utrecht)					| 2025 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
