@@ -15,4 +15,4 @@ Here are just some talks/blogs that I found inspiring
 
 <i class="fa-solid fa-video"></i> [OO vs FP, choose 2](https://www.youtube.com/watch?v=8GWZE2Y2O9E){:target="_blank"}
 
-<i class="fa-solid fa-video"></i> [Coupling, Cohesion and Change, the blueprint of modern software design]([https://www.youtube.com/watch?v=8GWZE2Y2O9E](https://www.youtube.com/watch?v=ZHhzw53G9bU)){:target="_blank"}
+<i class="fa-solid fa-video"></i> [Coupling, Cohesion and Change, the blueprint of modern software design](https://www.youtube.com/watch?v=ZHhzw53G9bU){:target="_blank"}
