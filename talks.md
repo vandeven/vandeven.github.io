@@ -17,7 +17,7 @@ JavaCro (Rovinj)							| 2025 | Spring magic explained
 JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
 Dev2Next (Colorado Springs)					| 2025 | Spring magic explained
 Dev2Next (Colorado Springs)					| 2025 | Empowering Your Development with FP: Understanding and Practice
-JavaZone (Oslo)								| 2025 | A fresh look at fundamentals
+JavaZone (Oslo)								| 2025 | A fresh look at fundamentals (<a href="https://docs.google.com/presentation/d/1j8gfTykqnUeRhSFBO6UBxtTjD5Zx5PBCWL7QaW2kW_8/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>)
 
 
 # Talks I have given
