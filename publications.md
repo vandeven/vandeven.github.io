@@ -13,6 +13,8 @@ Some other publications in magazines/podcasts I was part of.
 
 * NLJUG java magazine: Debugging 101 (dutch) <a href="https://nljug.org/java-magazine/2019-editie-4/java-magazine-4-2019/" target="_blank" class="fa-solid fa-book-open">
 
+* JavaPRO: State management explained <a href="https://javapro.io/2025/09/24/state-management-explained/" target="_blank" class="fa-solid fa-book-open">
+
 ## Podcasts
 
 ### Foojay podcast about Functional Programming (April 24, 2023)
