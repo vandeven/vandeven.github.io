@@ -17,6 +17,9 @@ Some other publications in magazines/podcasts I was part of.
 
 ## Podcasts
 
+# VerboseMode
+* <a href="https://www.youtube.com/live/SKNsHFtDaKQ" target="_blank">#VerboseMode at #Dev2Next 2025 with Ties van de Ven on functional programming.</a>
+
 ### Foojay podcast about Functional Programming (April 24, 2023)
 * <a href="https://foojay.io/today/foojay-podcast-20/" target="_blank">Foojay Podcast #20: Functional Programming, “The Good, the Bad, and the Ugly”</a>
 * <a href="https://open.spotify.com/episode/5W4B3ohd4VrwmB1Iu39D6A" target="_blank">Spotify</a>
