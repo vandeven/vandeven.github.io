@@ -13,7 +13,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 # Upcoming
 
 {:.custom-table}
-Heapcon (Belgrade)							| 2025 | Hitchhikers guide to conference speaking
+Heapcon (Belgrade)							| 2025 | Hitchhikers guide to conference speaking | | <a href="https://docs.google.com/presentation/d/1sP5rR71JPyKFEzxytSX37KkJJIlV2bruqK3JqOY93wk/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a> 
 JavaCro (Rovinj)							| 2025 | Spring magic explained
 JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
 
