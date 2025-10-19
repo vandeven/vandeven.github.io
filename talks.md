@@ -14,15 +14,15 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 
 {:.custom-table}
 Heapcon (Belgrade)							| 2025 | Hitchhikers guide to conference speaking | | <a href="https://docs.google.com/presentation/d/1sP5rR71JPyKFEzxytSX37KkJJIlV2bruqK3JqOY93wk/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a> 
-JavaCro (Rovinj)							| 2025 | Spring magic explained
-JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice
+
 
 
 
 
 # Talks I have given
 
-
+JavaCro (Rovinj)							| 2025 | Spring magic explained | | <a href="https://docs.google.com/presentation/d/1FcH8phl8WR-eUSwMulxCgAAAcrr2okyeRblTdd0Eczk/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dev2Next (Colorado Springs)					| 2025 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dev2Next (Colorado Springs)					| 2025 | Spring magic explained | | <a href="https://docs.google.com/presentation/d/11vNu2CLP9ttDYyfPzrsmKP52QvWQvu1iwTsY0pSA3OQ/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JavaZone (Oslo)								| 2025 | A fresh look at fundamentals | <a href="https://vimeo.com/1115889464" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/1j8gfTykqnUeRhSFBO6UBxtTjD5Zx5PBCWL7QaW2kW_8/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
