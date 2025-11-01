@@ -12,6 +12,15 @@ He combines these passions by doing public speaking, volunteer work for organisa
 
 # Abstracts
 
+##  Hitchhikers guide to conference speaking 
+
+"I don't know what to talk about", "What if they ask difficult questions", "I am not knowledgeable enough". These are common things I hear people say when I ask them about trying out public speaking. Some people are naturally comfortable to stand in front of a crowd, others (like me) are hoping someone else does the group presentation. Luckily, it turns out public speaking is a very learnable skill that everyone can do and can get good at. In this presentation we will go into every aspect of public speaking, from how conferences work, how to pick a subject and how to prepare your talk to tips and tricks that helped me to combat nerves and improve the delivery of the presentation. So if you always secretly wanted to try out public speaking for personal or career development (it is a great tool for that), or just because it is a fun way to make a positive impact, this is the talk for you.
+
+### Feedback
+<img src="../assets/img/feedbackhitchhikers1.jpg">
+<img src="../assets/img/feedbackhitchhikers2.jpg">
+<img src="../assets/img/feedbackhitchhikers3.jpg">
+
 ## Spring magic explained
 
 “Failed to Load ApplicationContext” is an error we see a lot, but what does it mean? In this session we will go into the basics of Spring Framework, what mental model you need to reason about Spring and how Spring does it’s magic under the hood. We will learn about the application context, what problems it solves, different ways to create beans and the real power behind Spring Boot: conditional bean loading. So if you like a deeper understanding and a better mental model about how Spring works explained in a beginner friendly way, this is the talk for you.
@@ -19,6 +28,9 @@ He combines these passions by doing public speaking, volunteer work for organisa
 ## Monads explained
 
 Functional programming terminology can be quite intimidating, but it does not have to be. Learning this terminology actually helped me in becoming a better problem solver, and therefor better at programming (in any language). In this talk we will go into what all these fancy words like monad, monoid, functor etc. actually mean. We will go into a bit of theory but there will be no mathematics, and there will be a strong focus on practical everyday examples in Java. After this talk you will see that you have been using monads all along, know why the Java Optional is not a monad, and your abstract thinking skills will level up.
+
+### Feedback
+<img src="../assets/img/feedbackmonads.png">
 
 ## Effective problem solving
 
