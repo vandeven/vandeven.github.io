@@ -17,9 +17,9 @@ He combines these passions by doing public speaking, volunteer work for organisa
 "I don't know what to talk about", "What if they ask difficult questions", "I am not knowledgeable enough". These are common things I hear people say when I ask them about trying out public speaking. Some people are naturally comfortable to stand in front of a crowd, others (like me) are hoping someone else does the group presentation. Luckily, it turns out public speaking is a very learnable skill that everyone can do and can get good at. In this presentation we will go into every aspect of public speaking, from how conferences work, how to pick a subject and how to prepare your talk to tips and tricks that helped me to combat nerves and improve the delivery of the presentation. So if you always secretly wanted to try out public speaking for personal or career development (it is a great tool for that), or just because it is a fun way to make a positive impact, this is the talk for you.
 
 ### Feedback
-<img src="../assets/img/feedbackhitchhikers1.jpg" style="width:33%;">
-<img src="../assets/img/feedbackhitchhikers2.jpg" style="width:33%;">
-<img src="../assets/img/feedbackhitchhikers3.jpg" style="width:33%;">
+<img src="../assets/img/feedbackhitchhikers1.jpg" style="width:32%;">
+<img src="../assets/img/feedbackhitchhikers2.jpg" style="width:32%;">
+<img src="../assets/img/feedbackhitchhikers3.jpg" style="width:32%;">
 
 ## Spring magic explained
 
