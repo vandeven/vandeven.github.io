@@ -23,7 +23,11 @@ He combines these passions by doing public speaking, volunteer work for organisa
 
 ## Spring magic explained
 
-Spring seems to do magical things; add a dependency like actuator and you automatically get metrics, add @Transactional on a method and it automagically runs in a transaction. What if I tell you these things are not magical at all. In this session we will adress the core concepts on which Spring was build. We will go into dependency injection, the application context, bean loading and aspect oriented programming (aop). We will mostly focus on the concepts behind them and mental model you need to understand how Spring works. This way you will be able to apply it broadly (and even to other frameworks like quarkus and micronaut). So if you like a deeper understanding and a better mental model about how Spring works explained in a beginner friendly way, this is the talk for you.
+Spring seems to do magical things:; add a dependency like actuator and you automatically get metrics, add @Transactional on a method and it automagically runs in a transaction. What if I tell you these things are not magical at all?
+
+In this session we will address the core concepts Spring is built on. We will go into dependency injection, the ApplicationContext, bean loading and aspect- oriented programming (AOP). We will mostly focus on the concepts behind them and mental model you need to understand how Spring works. This way you will be able to apply it broadly (and even to other frameworks like Quarkus and Micronaut). 
+
+So if you would like a deeper understanding and a better mental model about how Spring works explained in a beginner friendly way, this is the talk for you.
 
 ## Monads explained
 
