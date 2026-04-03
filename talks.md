@@ -22,7 +22,7 @@ WebKonf (Budapest)							| 2026 | Monads explained |
 # Talks I have given
 
 RotterdamJUG (The Hague)					| 2026 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
-Heapcon (Belgrade)							| 2025 | Hitchhikers guide to conference speaking | | <a href="https://docs.google.com/presentation/d/1sP5rR71JPyKFEzxytSX37KkJJIlV2bruqK3JqOY93wk/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a> 
+Heapcon (Belgrade)							| 2025 | Hitchhikers guide to conference speaking | <a href="https://youtu.be/rOtQnc-9gIU?si=BtG61pyMaPKFFaLg" target="_blank" class="fa-solid fa-video"></a>| <a href="https://docs.google.com/presentation/d/1sP5rR71JPyKFEzxytSX37KkJJIlV2bruqK3JqOY93wk/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a> 
 JavaCro (Rovinj)							| 2025 | Spring magic explained | | <a href="https://docs.google.com/presentation/d/1FcH8phl8WR-eUSwMulxCgAAAcrr2okyeRblTdd0Eczk/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JavaCro (Rovinj)							| 2025 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dev2Next (Colorado Springs)					| 2025 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1MKt4J24bImDI6RbeTJk2rsivLTCtOtbCN9f0gVnp6B0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
