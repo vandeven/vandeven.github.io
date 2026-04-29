@@ -14,7 +14,7 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 
 {:.custom-table}
 
-
+JSpring (Utrecht) | 2026 | Spring magic explained
 
 
 # Talks I have given
