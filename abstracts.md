@@ -10,16 +10,19 @@ Ties is a software engineer with a passion for concepts, software engineering fu
 He combines these passions by doing public speaking, volunteer work for organisations like Devoxx4kids and codingcoach and working as a Software Quality Expert at Alliander.
 
 
-# Abstracts
+# Current Talks
 
-##  Hitchhikers guide to conference speaking 
+## The Hexagonal Hangover
 
-"I don't know what to talk about", "What if they ask difficult questions", "I am not knowledgeable enough". These are common things I hear people say when I ask them about trying out public speaking. Some people are naturally comfortable to stand in front of a crowd, others (like me) are hoping someone else does the group presentation. Luckily, it turns out public speaking is a very learnable skill that everyone can do and can get good at. In this presentation we will go into every aspect of public speaking, from how conferences work, how to pick a subject and how to prepare your talk to tips and tricks that helped me to combat nerves and improve the delivery of the presentation. So if you always secretly wanted to try out public speaking for personal or career development (it is a great tool for that), or just because it is a fun way to make a positive impact, this is the talk for you.
+"It depends." It’s the classic software architect’s answer... but what does it actually depend on? Patterns like Clean and Hexagonal Architecture are great tools, but they are often applied dogmatically. When we automatically wrap simple features in endless layers of abstraction and domain interfaces, we introduce unnecessary distance between related concepts. Those extra layers are intended to decouple, but they can sometimes just make our code harder to navigate, test, and maintain.
+In this talk, we’ll take a step back from "best practices" and look at the trade-offs behind architectural choices. Using clear Java code samples, we will explore the metrics that help guide these decisions: coupling, cohesion, and distance. Instead of looking for universally "clean" solutions, we’ll discuss how to evaluate what makes sense for your specific context.
 
-### Feedback
-<img src="../assets/img/feedbackhitchhikers1.jpg" style="width:32%;">
-<img src="../assets/img/feedbackhitchhikers2.jpg" style="width:32%;">
-<img src="../assets/img/feedbackhitchhikers3.jpg" style="width:32%;">
+## The S in LLM stands for Security
+
+Everyone is jumping on the AI bandwagon; vibe-coding applications and creating full workflows with technologies like openclaw, giving AI access to things like your computer, email and company servers... Meanwhile new attack surfaces are emerging faster than most teams can keep up with.
+So join us and ask the question: what could possibly go wrong?
+In this talk, we will walk through common LLM use cases, such as code assistants, LLM-powered applications, MCP integrations and map them directly onto the developer workflow. Along the way, we highlight where things can (and do) go wrong and demonstrate realistic attack scenarios.
+Expect a mix of real-world examples, security pitfalls, and a reality check on the current LLM hype.
 
 ## Spring magic explained
 
@@ -36,6 +39,21 @@ Functional programming terminology can be quite intimidating, but it does not ha
 ### Feedback
 <img src="../assets/img/feedbackmonads.png">
 
+## Empowering Your Development with FP: Understanding and Practice
+
+There are a lot of talks about the newest tools libraries and frameworks but sometimes it is good to take a step back and think about the underlying problems they are trying to solve. In this talk we will go into the 4 fundamental aspects within software engineering; problem solving, managing state, managing errors and managing side effects. There will be almost no functional programming terminology used but instead focus on recognizable examples (in Java) and look at them from a different angle that you might have never concidered. So if you want to improve your problem solving skills and get better in abstract thinking without having to learn what a monad is, this is the talk for you.
+
+# Old talks
+
+##  Hitchhikers guide to conference speaking 
+
+"I don't know what to talk about", "What if they ask difficult questions", "I am not knowledgeable enough". These are common things I hear people say when I ask them about trying out public speaking. Some people are naturally comfortable to stand in front of a crowd, others (like me) are hoping someone else does the group presentation. Luckily, it turns out public speaking is a very learnable skill that everyone can do and can get good at. In this presentation we will go into every aspect of public speaking, from how conferences work, how to pick a subject and how to prepare your talk to tips and tricks that helped me to combat nerves and improve the delivery of the presentation. So if you always secretly wanted to try out public speaking for personal or career development (it is a great tool for that), or just because it is a fun way to make a positive impact, this is the talk for you.
+
+### Feedback
+<img src="../assets/img/feedbackhitchhikers1.jpg" style="width:32%;">
+<img src="../assets/img/feedbackhitchhikers2.jpg" style="width:32%;">
+<img src="../assets/img/feedbackhitchhikers3.jpg" style="width:32%;">
+
 ## Effective problem solving
 
 Software engineering is a field that is evolving rapidly. About 10 years ago we were manually installing things on that one named server while these days we run hundreds of services in a cloud environment.
@@ -48,10 +66,6 @@ We will dive into the fundamental problems of software engineering (like state m
 
 As a programmer, critical thinking and problem solving, not writing code itself, is most of the work.
 So join me today in our journey to learn to become an effective problem solver.
-
-## Empowering Your Development with FP: Understanding and Practice
-
-There are a lot of talks about the newest tools libraries and frameworks but sometimes it is good to take a step back and think about the underlying problems they are trying to solve. In this talk we will go into the 4 fundamental aspects within software engineering; problem solving, managing state, managing errors and managing side effects. There will be almost no functional programming terminology used but instead focus on recognizable examples (in Java) and look at them from a different angle that you might have never concidered. So if you want to improve your problem solving skills and get better in abstract thinking without having to learn what a monad is, this is the talk for you.
 
 ## Java's new paradigm
 
