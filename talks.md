@@ -15,8 +15,8 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 {:.custom-table}
 
 Heapcon (Belgrade) | 2026 | The S in LLM stands for Security
-Dev2Next (Denver) | 2026 | The S in LLM stands for Security
-Dev2Next (Denver) | 2026 | The Hexagonal Hangover
+Dev2Next (Denver) | 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1DqnYu7jyzZZWxtbJFKOhPHMVwPJCTGMcbe-enzVAiC4/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+Dev2Next (Denver) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 
 # Talks I have given
 
