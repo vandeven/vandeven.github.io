@@ -24,7 +24,7 @@ ArnhemJUG (Arnhem) | 2026 | The Hexagonal Hangover || <a href="https://docs.goog
 # Talks I have given
 
 Code Seoul (Seoul)							| 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
-JSpring (Utrecht)							| 2026 | Spring magic explained | |  <a href="https://docs.google.com/presentation/d/1_4DjQwr-OQB5StVHM5xGEx3seDIADTdzdxu8ILEUAV0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+JSpring (Utrecht)							| 2026 | Spring magic explained | <a href="https://www.youtube.com/watch?v=Xbz87dH2XvI" target="_blank" class="fa-solid fa-video"></a> |  <a href="https://docs.google.com/presentation/d/1_4DjQwr-OQB5StVHM5xGEx3seDIADTdzdxu8ILEUAV0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Joy of Coding (Rotterdam)					| 2026 | Spring magic explained | |  <a href="https://docs.google.com/presentation/d/1_4DjQwr-OQB5StVHM5xGEx3seDIADTdzdxu8ILEUAV0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 WebKonf (Budapest)							| 2026 | Empowering Your Development with FP: Understanding and Practice | | <a href="https://docs.google.com/presentation/d/1VXFjE0D-CrcnhasS-1NfaNG71Jhe-CG9g2AGE1XSLCM/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 WebKonf (Budapest)							| 2026 | Spring magic explained | |  <a href="https://docs.google.com/presentation/d/1CeuQWMgUVv7K6Gmyl9_ylYRe1WMn2w0geNCN5lvxfT8/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
