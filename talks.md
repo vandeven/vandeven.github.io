@@ -18,11 +18,12 @@ Heapcon (Belgrade) | 2026 | The S in LLM stands for Security
 Softcon	Philippines (online) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dev2Next (Denver) | 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Dev2Next (Denver) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
-Devoxx (Antwerpen) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
-ArnhemJUG (Arnhem) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+
 
 # Talks I have given
 
+Devoxx (Antwerpen) 							| 2026 | The Hexagonal Hangover | <a href="https://www.youtube.com/watch?v=m9viRAIRAUQ" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+ArnhemJUG (Arnhem) 							| 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Code Seoul (Seoul)							| 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JSpring (Utrecht)							| 2026 | Spring magic explained | <a href="https://www.youtube.com/watch?v=Xbz87dH2XvI" target="_blank" class="fa-solid fa-video"></a> |  <a href="https://docs.google.com/presentation/d/1_4DjQwr-OQB5StVHM5xGEx3seDIADTdzdxu8ILEUAV0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Joy of Coding (Rotterdam)					| 2026 | Spring magic explained | |  <a href="https://docs.google.com/presentation/d/1_4DjQwr-OQB5StVHM5xGEx3seDIADTdzdxu8ILEUAV0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
