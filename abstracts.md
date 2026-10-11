@@ -14,8 +14,7 @@ He combines these passions by doing public speaking, volunteer work for organisa
 
 ## The Hexagonal Hangover
 
-"It depends." It’s the classic software architect’s answer... but what does it actually depend on? Patterns like Clean and Hexagonal Architecture are great tools, but they are often applied dogmatically. When we automatically wrap simple features in endless layers of abstraction and domain interfaces, we introduce unnecessary distance between related concepts. Those extra layers are intended to decouple, but they can sometimes just make our code harder to navigate, test, and maintain.
-In this talk, we’ll take a step back from "best practices" and look at the trade-offs behind architectural choices. Using clear Java code samples, we will explore the metrics that help guide these decisions: coupling, cohesion, and distance. Instead of looking for universally "clean" solutions, we’ll discuss how to evaluate what makes sense for your specific context.
+“It depends.” The correct answer to most questions. But on what exactly? Hexagonal architecture is a great tool, but sometimes we reach for it by reflex and wrap a simple feature in ports, adapters and interfaces until you need a treasure map to find the actual logic. Don’t worry, this isn’t a hexagonal bashing session. It’s a mental model for knowing when all those layers are worth it, and when they’re just getting in your way. We’ll break architecture down into three fundamentals: cohesion, coupling and distance. Along the way we’ll find out why abstraction layers never remove a dependency (they just move it somewhere else), why a Java interface isn’t a stronger contract, and why a big ball of spaghetti nobody touches might not be a problem at all. Then we’ll put hexagonal itself to the test. You’ll leave with better words than “it depends” for your next architecture discussion, and maybe some candy.
 
 ## The S in LLM stands for Security
 
