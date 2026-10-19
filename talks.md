@@ -15,14 +15,14 @@ tr:nth-child(odd) {background-color: #B0C4DE;}
 {:.custom-table}
 
 Heapcon (Belgrade) | 2026 | The S in LLM stands for Security
-Softcon	Philippines (online) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+Softcon	Philippines (online) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1qrm_ZB-8AInD_zpwfgVcKdIpj8Uq_WthTs1U2tDEomA/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 JugNoord (Groningen) | 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
-Dev2Next (Denver) | 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
-Dev2Next (Denver) | 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 
 
 # Talks I have given
 
+Dev2Next (Denver) 							| 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
+Dev2Next (Denver) 							| 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Devoxx (Antwerpen) 							| 2026 | The Hexagonal Hangover | <a href="https://www.youtube.com/watch?v=m9viRAIRAUQ" target="_blank" class="fa-solid fa-video"></a> | <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 ArnhemJUG (Arnhem) 							| 2026 | The Hexagonal Hangover || <a href="https://docs.google.com/presentation/d/1DE-YL-QsrCwZOkDeOtvLLSoiQVoZ26ZnO9MrcqfCtko/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
 Code Seoul (Seoul)							| 2026 | The S in LLM stands for Security || <a href="https://docs.google.com/presentation/d/1B9OdvEoDfhArWAnjhPJ2CyUXfIQpuc4HdvbitCOBwt0/edit?usp=sharing" target="_blank" class="fa-solid fa-chalkboard"></a>
